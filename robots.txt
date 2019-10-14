@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veichaequo.laosei.com/sitemap.xml
